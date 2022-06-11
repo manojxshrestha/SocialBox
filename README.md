@@ -1,7 +1,5 @@
 ### SocialBox
 
-### Social Box – Tool to perform brute force attack on any social media (Facebook,Twitter,Instagram,Gmail)
-
 ### About SocialBox
 
 SocialBox is a Bruteforce Attack Framework. It helps to perform Bruteforce Attack in any social media account. ( Facebook , Gmail , Instagram ,Twitter ).
