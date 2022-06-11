@@ -24,3 +24,15 @@ $ chmod +x install-sb.sh
 $ ./install-sb.sh
 
 $ ./SocialBox.sh
+
+### How to use this SocialBox tool 
+
+1. Go to SocialBox folder, and the type command
+
+$  ./SocialBox.sh
+
+2. Choose your choice for example number 1, just type 1 and then
+
+Enter Facebook 
+
+
