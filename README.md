@@ -28,7 +28,9 @@ $ ./SocialBox.sh
 ### Tested on :
 
 Backbox linux
+
 Ubuntu
+
 Kali linux
 
 ### How to use this SocialBox tool 
@@ -46,7 +48,9 @@ And then
 Enter wordlist path : root/Desktop/worldlist.txt
 
 Thanks for reading !
+
 #Don't forget to follow me !
+
 #Happy Hacking !
 
 ### ☞Social Media Links:
