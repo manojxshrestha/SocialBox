@@ -25,6 +25,12 @@ $ ./install-sb.sh
 
 $ ./SocialBox.sh
 
+### Tested on :
+
+Backbox linux
+Ubuntu
+Kali linux
+
 ### How to use this SocialBox tool 
 
 1. Go to SocialBox folder, and the type command
@@ -41,4 +47,15 @@ Enter wordlist path : root/Desktop/worldlist.txt
 
 The End
 
+![sb](https://user-images.githubusercontent.com/106522935/173199171-5f1462a7-837e-41ef-bf13-99f71fc704f1.png)
+
+
+
+### ☞Social Media Links:
+
+Facebook: https://www.facebook.com/manojshrestha00
+
+Instragram: https://www.instagram.com/manojshrestha00
+
+Twitter: https://www.twitter.com/manojshrestha00
 
