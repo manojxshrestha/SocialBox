@@ -31,8 +31,14 @@ $ ./SocialBox.sh
 
 $  ./SocialBox.sh
 
-2. Choose your choice for example number 1, just type 1 and then
+2. Now pick an option. For this example, I will go with option 1 which is Facebook. Then I will type in the email to my Facebook account. On the next line, I will specify the path to my dictionary word list. Now press Enter and watch SocialBox bruteforce the account.
 
-Enter Facebook 
+Enter Facebook id / Email / Username / Number : abc@gmail.com
+
+And then
+
+Enter wordlist path : root/Desktop/worldlist.txt
+
+The End
 
 
