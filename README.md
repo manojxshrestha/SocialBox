@@ -47,3 +47,4 @@ And then
 
 Enter wordlist path : root/Desktop/worldlist.txt
 
+B00M🔥
