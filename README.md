@@ -47,8 +47,3 @@ And then
 
 Enter wordlist path : root/Desktop/worldlist.txt
 
-Thanks for reading !
-
-#Don't forget to follow me !
-
-#Happy Hacking !
