@@ -37,7 +37,9 @@ Kali linux
 
 1. Go to SocialBox folder, and the type command
 
+
      $  ./SocialBox.sh
+     
 
 2. Now pick an option. For this example, I will go with option 1 which is Facebook. Then I will type in the email to my Facebook account. On the next line, I will specify the path to my dictionary word list. Now press Enter and watch SocialBox bruteforce the account.
 
