@@ -11,19 +11,19 @@ With just SocialBox you can perform brute force attack on any social media. But 
 
 ### Installation
 
-$ sudo apt-get install git
+     $ sudo apt-get install git
 
-$ git clone https://github.com/TunisianEagles/SocialBox.git
+     $ git clone https://github.com/TunisianEagles/SocialBox.git
 
-$ cd SocialBox
+     $ cd SocialBox
 
-$ chmod +x SocialBox.sh
+     $ chmod +x SocialBox.sh
 
-$ chmod +x install-sb.sh
+     $ chmod +x install-sb.sh
 
-$ ./install-sb.sh
+     $ ./install-sb.sh
 
-$ ./SocialBox.sh
+     $ ./SocialBox.sh
 
 ### Tested on :
 
@@ -37,7 +37,7 @@ Kali linux
 
 1. Go to SocialBox folder, and the type command
 
-$  ./SocialBox.sh
+     $  ./SocialBox.sh
 
 2. Now pick an option. For this example, I will go with option 1 which is Facebook. Then I will type in the email to my Facebook account. On the next line, I will specify the path to my dictionary word list. Now press Enter and watch SocialBox bruteforce the account.
 
