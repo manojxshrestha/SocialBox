@@ -35,17 +35,15 @@ Kali linux
 
 ### How to use this SocialBox tool 
 
-1. Go to SocialBox folder, and the type command
-
+1. Go to SocialBox folder, and the type command:
 
      $  ./SocialBox.sh
      
-
 2. Now pick an option. For this example, I will go with option 1 which is Facebook. Then I will type in the email to my Facebook account. On the next line, I will specify the path to my dictionary word list. Now press Enter and watch SocialBox bruteforce the account.
 
 Enter Facebook id / Email / Username / Number : abc@gmail.com
 
-And then
+And then,
 
 Enter wordlist path : root/Desktop/worldlist.txt
 
